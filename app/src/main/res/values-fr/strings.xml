@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lancé de dés multifaces</string>
+    <string name="d4">Dé de 4</string>
+    <string name="d6">Dé de 6</string>
+    <string name="d8">Dé de 8</string>
+    <string name="d10">Dé de 10</string>
+    <string name="d12">Dé de 12</string>
+    <string name="d16">Dé de 16</string>
+    <string name="d20">Dé de 20</string>
+    <string name="d30">Dé de 30</string>
+    <string name="dgo">Lancer le dé</string>
+    <string name="activityTitle">Choisir un dé</string>
+</resources>

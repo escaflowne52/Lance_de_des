@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multi-faceted dice roll</string>
+    <string name="d4">4 dice</string>
+    <string name="d6">6 dice</string>
+    <string name="d8">8 dice</string>
+    <string name="d10">10 dice</string>
+    <string name="d12">12 dice</string>
+    <string name="d16">16 dice</string>
+    <string name="d20">20 dice</string>
+    <string name="d30">30 dice</string>
+    <string name="dgo">Roll the dice</string>
+    <string name="activityTitle">Select a dice</string>
+
+</resources>
